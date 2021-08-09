@@ -1,30 +1,27 @@
-# 100 Days Of Code - Log
+## Code Repo
+click [here](https://github.com/KhudadadKhawari/100DaysOfCode) to go to the Code repo
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+# Progress 
+### Day 0: August 8, Sunday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I've reviewd basic syntax in python. practiced with functional programming and Object oriented programming in python.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Python is an intresting language for me. I love to master this programming Language.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Hang Man Game](https://github.com/KhudadadKhawari/100DaysOfCode/blob/main/Day%200/hangman.py)
+
+<br>
+<br>
+
+### Day 1: August 9, Monday
+
+**Today's Progress**: Today I Solved some Coding challenges in SoloLearn App with python. Also, I watched some tutorials on udemy. Here I am uploading the two small projects of my today work which are Tip Calculator and Love Calculator.
+<br>
+ 
+**Thoughts** Since I have worked too much with Problem-solving today wasn't a big deal for me. I will try to work on some bigger projects.
+  
+**Link(s) to work**
+1. [Tip-Calculator](https://github.com/KhudadadKhawari/100DaysOfCode/blob/main/Day-1/tip-calculator.py)
+1. [Love-Calculator](https://github.com/KhudadadKhawari/100DaysOfCode/blob/main/Day-1/love-calculator.py)
+
