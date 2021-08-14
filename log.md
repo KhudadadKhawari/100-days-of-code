@@ -11,8 +11,7 @@ click [here](https://github.com/KhudadadKhawari/100DaysOfCode) to go to the Code
 **Link(s) to work**
 1. [Hang Man Game](https://github.com/KhudadadKhawari/100DaysOfCode/blob/main/Day%200/hangman.py)
 
-<br>
-<br> 
+
 
 ### Day 1: August 9, Monday
 
