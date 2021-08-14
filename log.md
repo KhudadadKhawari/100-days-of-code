@@ -34,5 +34,5 @@ and for practicing I've created this rock, paper scissors game and also a passwo
 **Thoughts:** As I've started this challenge during my college final exam, It is a little more challenging for me to prepare for exam and also do the challenge. Anyway, I'll try my best 
   
 **Link(s) to work**
-1. [Rock-Paper-Scissors Game](https://github.com/KhudadadKhawari/100DaysOfCode/blob/main/Day-2/rock-paper-scissors.py)
-1. [Password-Generator](https://github.com/KhudadadKhawari/100DaysOfCode/blob/main/Day-2/password-generator.py)
+1. [Rock-Paper-Scissors Game](https://github.com/KhudadadKhawari/100DaysOfCode/blob/main/day-2/rock-paper-scissors.py)
+1. [Password-Generator](https://github.com/KhudadadKhawari/100DaysOfCode/blob/main/day-2/password-generator.py)
