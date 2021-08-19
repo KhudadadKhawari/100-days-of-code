@@ -9,7 +9,7 @@ click [here](https://github.com/KhudadadKhawari/100DaysOfCode) to go to the Code
 **Thoughts:** Python is an interesting language for me. I love to master this programming Language.
 
 **Link(s) to work**
-1. [Hang Man Game](https://github.com/KhudadadKhawari/100DaysOfCode/blob/main/Day%200/hangman.py)
+1. [Hang Man Game](https://github.com/KhudadadKhawari/100DaysOfCode/blob/main/000-Hangman/hangman.py)
 
 
 
@@ -21,8 +21,8 @@ click [here](https://github.com/KhudadadKhawari/100DaysOfCode) to go to the Code
 **Thoughts:** Since I have worked too much with Problem-solving today wasn't a big deal for me. I will try to work on some bigger projects.
   
 **Link(s) to work**
-1. [Tip-Calculator](https://github.com/KhudadadKhawari/100DaysOfCode/blob/main/Day-1/tip-calculator.py)
-1. [Love-Calculator](https://github.com/KhudadadKhawari/100DaysOfCode/blob/main/Day-1/love-calculator.py)
+1. [Tip-Calculator](https://github.com/KhudadadKhawari/100DaysOfCode/blob/main/001-love-tip-calculator/tip-calculator.py)
+1. [Love-Calculator](https://github.com/KhudadadKhawari/100DaysOfCode/blob/main/001-love-tip-calculator/love-calculator.py)
 
 ### Day 2: August 10, Wednesday
 
@@ -33,5 +33,15 @@ and for practicing I've created this rock, paper scissors game and also a passwo
 **Thoughts:** As I've started this challenge during my college final exam, It is a little more challenging for me to prepare for exam and also do the challenge. Anyway, I'll try my best 
   
 **Link(s) to work**
-1. [Rock-Paper-Scissors Game](https://github.com/KhudadadKhawari/100DaysOfCode/blob/main/day-2/rock-paper-scissors.py)
-1. [Password-Generator](https://github.com/KhudadadKhawari/100DaysOfCode/blob/main/day-2/password-generator.py)
+1. [Rock-Paper-Scissors Game](https://github.com/KhudadadKhawari/100DaysOfCode/blob/main/002-PasswordGenerator-RPS/rock-paper-scissors.py)
+1. [Password-Generator](https://github.com/KhudadadKhawari/100DaysOfCode/blob/main/002-PasswordGenerator-RPS/password-generator.py)
+
+### Day 3: August 11, Thursday
+
+**Today's Progress**: Today I solved some Coding Challenges on SoloLearn App. Also watched some Tutorials online. I also worked on this Caesar Cipher program. if You need a description about Caesar Cipher Click [HERE](https://en.wikipedia.org/wiki/Caesar_cipher)
+<br>
+ 
+**Thoughts** I'm having a hard time both preparing for exam and completing coding challenges. Anyway I will never give up.
+  
+**Link(s) to work**
+1. [Caesar-Cipher](https://github.com/KhudadadKhawari/100DaysOfCode/blob/main/003-Caesar-Cipher/caesar-cipher.py)
