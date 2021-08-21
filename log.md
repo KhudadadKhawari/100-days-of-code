@@ -58,7 +58,7 @@ and for practicing I've created this rock, paper scissors game and also a passwo
 
 
 
-### Day 5-6: August 14, 15, Sunday, Monday
+### Day 6-7: August 14, 15, Sunday, Monday
 
 **Today's Progress**: I read the turtle package documentation and also built Pong game which is really awesome. 
 <br>
