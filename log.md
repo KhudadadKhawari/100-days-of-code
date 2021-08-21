@@ -45,3 +45,25 @@ and for practicing I've created this rock, paper scissors game and also a passwo
   
 **Link(s) to work**
 1. [Caesar-Cipher](https://github.com/KhudadadKhawari/100DaysOfCode/blob/main/003-Caesar-Cipher/caesar-cipher.py)
+
+### Day 4-5: August 12, 13, Friday, Saturday
+
+**Today's Progress**: Today I Built the old Snake Game with Turtle in Python.
+<br>
+ 
+**Thoughts** It is really awesome to create some visual projects and something that is usable.
+  
+**Link(s) to work**
+1. [Snake-Game](https://github.com/KhudadadKhawari/100DaysOfCode/tree/main/005-Snake-Game)
+
+
+
+### Day 5-6: August 14, 15, Sunday, Monday
+
+**Today's Progress**: I read the turtle package documentation and also built Pong game which is really awesome. 
+<br>
+ 
+**Thoughts** Due to lack of time I couldn't work on this project and finish it in one day. so I did it in two days but, now it's available :) 
+  
+**Link(s) to work**
+1. [Pong-Game](https://github.com/KhudadadKhawari/100DaysOfCode/tree/main/006-Pong-Game)
