@@ -67,3 +67,13 @@ and for practicing I've created this rock, paper scissors game and also a passwo
   
 **Link(s) to work**
 1. [Pong-Game](https://github.com/KhudadadKhawari/100DaysOfCode/tree/main/006-Pong-Game)
+
+### Day 8: August 16, Tuesday
+
+**Today's Progress**: I read the turtle package documentation and also built Cross The Street Game which was a little challenging for me to build without reading the documentation.
+<br>
+ 
+**Thoughts** I built today's challenging project without reading the documentation, and it gave me a good feeling that I'm finally doing some useful things by myself only. 
+  
+**Link(s) to work**
+1. [Cross-The-Street-Game](https://github.com/KhudadadKhawari/100DaysOfCode/tree/main/007-Cross-The-Street-Game)
